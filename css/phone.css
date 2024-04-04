@@ -1,0 +1,62 @@
+/* navigation  */
+#navbar{
+    flex-direction: column;
+}
+
+/* home section  */
+/* #home{
+
+}
+#home::before{
+    height: 200px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    /* overflow: hidden; */
+
+
+/* #home{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home::before{
+    height: 780px; 
+} */
+
+#home{
+    height: 370px; 
+    padding: 3px 28px;
+}
+
+#home::before{
+    height: 480px; 
+}
+
+#home p{
+    font-size: 53px;
+}
+
+
+
+/* service section   */
+.services{
+    /* flex-direction: column; */
+    /* display: flex; */
+    flex-wrap: wrap;
+}
+.services .box{
+     
+}
+
+/* brand section  */
+
+#brand{
+    flex-wrap: wrap;
+
+}
+#brand-section::before{
+    height: 200px;
+}
+
+/* flotter section  */
